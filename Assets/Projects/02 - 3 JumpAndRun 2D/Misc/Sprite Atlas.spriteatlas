@@ -1,0 +1,492 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -1508612435, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 881418448, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1622293091, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 598954250, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1597368731, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 481313844, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 459765550, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 2055335782, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1471163701, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -135349496, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1328382411, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 375096236, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1869400971, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1195414352, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 894609080, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -986252664, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 517213794, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1350478390, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1101742519, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1181020276, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 464164512, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 133245737, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1986618665, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 385635498, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1016669078, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 473874740, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -447278157, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1334681525, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1021149880, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 905543390, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1413061173, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -699195949, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -573939222, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -390506385, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -2138294445, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -809075933, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -52261008, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -757390070, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -431753354, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1701769311, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1842704494, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1542352841, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1376011781, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1378464644, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -40627356, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -469958164, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1496375690, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 422408956, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1417578120, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -735927982, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1357631397, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -241529364, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 2016154842, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -2022929534, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 361353815, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1207124367, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1840448664, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -584582699, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -685393800, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1489638681, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -853230033, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1672310686, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -876475655, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1830082369, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -964439722, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1185885014, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 692454202, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1549919815, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1990123269, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1670609516, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 941355952, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 619254518, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 713699221, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -105870687, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -544709102, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1977738762, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -459896904, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -661581495, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 45853771, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1186050691, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -2000642297, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -296272636, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -419500589, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1665238168, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1845317834, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1250182207, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1988566062, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 2019773196, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -936794768, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 716495020, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 2006848079, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -491686183, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1631009368, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1797381424, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1013239569, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -337485604, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1051212062, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 637163785, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 227803584, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 40121769, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -128125995, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 364332131, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1303282579, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1740804531, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 2090539958, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1968614491, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 219115154, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -505517345, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1286980329, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1533141662, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1165414998, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 537120936, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1166137539, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -343560485, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 360573523, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 743567711, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1416044298, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -263824808, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1008960327, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -655673493, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1241208985, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 525270237, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1428833491, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1513280379, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -276299257, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 8628497, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1333937013, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -297840074, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1350632601, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1918475847, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -718208049, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -15117044, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1999289526, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -272734715, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1034865258, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1169937069, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 362404276, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1974705096, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 160312654, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 570911911, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1073265867, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -68670856, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -143318845, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -135515958, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 259492263, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1169122178, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1893903666, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 5289341, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1637898469, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1703434530, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 2106639947, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 181673348, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -753776207, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1690326030, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -768628454, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1189825553, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1559792694, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -970271113, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 2144574492, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -2089932581, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1104825759, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1905680082, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1901558580, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 618383806, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -955187675, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1834662459, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1412169641, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1867793980, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -507074991, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1060872176, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1123483521, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1411332669, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -431182190, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 523204495, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1588744290, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -170873600, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -141928559, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 554236605, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -850848655, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1956397709, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -130425963, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1965910629, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1393376981, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1952213222, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1624148428, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1020526714, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 2095043354, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 69935419, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1048012930, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1912053224, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 850153107, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1026516354, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -142563674, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -449274143, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -725235806, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1862381244, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -571995191, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 2002510150, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 337056777, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 474759526, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1835349268, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1602400214, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1845606342, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1892844346, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 493039465, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -2000165195, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 2062197435, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 699511902, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -113517280, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1596728814, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1429953046, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1323618194, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1390687589, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1588193079, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 908860308, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -32893459, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 139289606, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 419336782, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -189622948, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 214892125, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -625204011, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1942460155, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: 1723159927, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  - {fileID: -1193282483, guid: 33fabbbc0af38ae4fb5e929f445ec484, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - derelict_spacecraft_tiles_160
+  - derelict_spacecraft_tiles_199
+  - derelict_spacecraft_tiles_161
+  - derelict_spacecraft_tiles_119
+  - derelict_spacecraft_tiles_198
+  - derelict_spacecraft_tiles_162
+  - derelict_spacecraft_tiles_102
+  - derelict_spacecraft_tiles_118
+  - derelict_spacecraft_tiles_163
+  - derelict_spacecraft_tiles_173
+  - derelict_spacecraft_tiles_103
+  - derelict_spacecraft_tiles_164
+  - derelict_spacecraft_tiles_172
+  - derelict_spacecraft_tiles_148
+  - derelict_spacecraft_tiles_100
+  - derelict_spacecraft_tiles_165
+  - derelict_spacecraft_tiles_171
+  - derelict_spacecraft_tiles_149
+  - derelict_spacecraft_tiles_101
+  - derelict_spacecraft_tiles_115
+  - derelict_spacecraft_tiles_166
+  - derelict_spacecraft_tiles_170
+  - derelict_spacecraft_tiles_146
+  - derelict_spacecraft_tiles_106
+  - derelict_spacecraft_tiles_114
+  - derelict_spacecraft_tiles_167
+  - derelict_spacecraft_tiles_177
+  - derelict_spacecraft_tiles_147
+  - derelict_spacecraft_tiles_107
+  - derelict_spacecraft_tiles_117
+  - derelict_spacecraft_tiles_176
+  - derelict_spacecraft_tiles_144
+  - derelict_spacecraft_tiles_104
+  - derelict_spacecraft_tiles_116
+  - derelict_spacecraft_tiles_175
+  - derelict_spacecraft_tiles_145
+  - derelict_spacecraft_tiles_105
+  - derelict_spacecraft_tiles_111
+  - derelict_spacecraft_tiles_174
+  - derelict_spacecraft_tiles_142
+  - derelict_spacecraft_tiles_110
+  - derelict_spacecraft_tiles_143
+  - derelict_spacecraft_tiles_113
+  - derelict_spacecraft_tiles_140
+  - derelict_spacecraft_tiles_112
+  - derelict_spacecraft_tiles_141
+  - derelict_spacecraft_tiles_223
+  - derelict_spacecraft_tiles_222
+  - derelict_spacecraft_tiles_218
+  - derelict_spacecraft_tiles_221
+  - derelict_spacecraft_tiles_219
+  - derelict_spacecraft_tiles_220
+  - derelict_spacecraft_tiles_216
+  - derelict_spacecraft_tiles_217
+  - derelict_spacecraft_tiles_214
+  - derelict_spacecraft_tiles_215
+  - derelict_spacecraft_tiles_212
+  - derelict_spacecraft_tiles_213
+  - derelict_spacecraft_tiles_210
+  - derelict_spacecraft_tiles_211
+  - derelict_spacecraft_tiles_96
+  - derelict_spacecraft_tiles_97
+  - derelict_spacecraft_tiles_94
+  - derelict_spacecraft_tiles_38
+  - derelict_spacecraft_tiles_95
+  - derelict_spacecraft_tiles_89
+  - derelict_spacecraft_tiles_39
+  - derelict_spacecraft_tiles_92
+  - derelict_spacecraft_tiles_88
+  - derelict_spacecraft_tiles_93
+  - derelict_spacecraft_tiles_90
+  - derelict_spacecraft_tiles_58
+  - derelict_spacecraft_tiles_91
+  - derelict_spacecraft_tiles_29
+  - derelict_spacecraft_tiles_59
+  - derelict_spacecraft_tiles_28
+  - derelict_spacecraft_tiles_30
+  - derelict_spacecraft_tiles_81
+  - derelict_spacecraft_tiles_31
+  - derelict_spacecraft_tiles_49
+  - derelict_spacecraft_tiles_80
+  - derelict_spacecraft_tiles_32
+  - derelict_spacecraft_tiles_52
+  - derelict_spacecraft_tiles_48
+  - derelict_spacecraft_tiles_83
+  - derelict_spacecraft_tiles_33
+  - derelict_spacecraft_tiles_23
+  - derelict_spacecraft_tiles_53
+  - derelict_spacecraft_tiles_98
+  - derelict_spacecraft_tiles_82
+  - derelict_spacecraft_tiles_34
+  - derelict_spacecraft_tiles_22
+  - derelict_spacecraft_tiles_18
+  - derelict_spacecraft_tiles_50
+  - derelict_spacecraft_tiles_99
+  - derelict_spacecraft_tiles_85
+  - derelict_spacecraft_tiles_35
+  - derelict_spacecraft_tiles_21
+  - derelict_spacecraft_tiles_19
+  - derelict_spacecraft_tiles_51
+  - derelict_spacecraft_tiles_45
+  - derelict_spacecraft_tiles_84
+  - derelict_spacecraft_tiles_36
+  - derelict_spacecraft_tiles_20
+  - derelict_spacecraft_tiles_16
+  - derelict_spacecraft_tiles_56
+  - derelict_spacecraft_tiles_44
+  - derelict_spacecraft_tiles_87
+  - derelict_spacecraft_tiles_37
+  - derelict_spacecraft_tiles_27
+  - derelict_spacecraft_tiles_17
+  - derelict_spacecraft_tiles_57
+  - derelict_spacecraft_tiles_47
+  - derelict_spacecraft_tiles_86
+  - derelict_spacecraft_tiles_26
+  - derelict_spacecraft_tiles_14
+  - derelict_spacecraft_tiles_54
+  - derelict_spacecraft_tiles_46
+  - derelict_spacecraft_tiles_25
+  - derelict_spacecraft_tiles_15
+  - derelict_spacecraft_tiles_55
+  - derelict_spacecraft_tiles_41
+  - derelict_spacecraft_tiles_24
+  - derelict_spacecraft_tiles_12
+  - derelict_spacecraft_tiles_40
+  - derelict_spacecraft_tiles_13
+  - derelict_spacecraft_tiles_43
+  - derelict_spacecraft_tiles_10
+  - derelict_spacecraft_tiles_42
+  - derelict_spacecraft_tiles_11
+  - derelict_spacecraft_tiles_151
+  - derelict_spacecraft_tiles_182
+  - derelict_spacecraft_tiles_150
+  - derelict_spacecraft_tiles_183
+  - derelict_spacecraft_tiles_153
+  - derelict_spacecraft_tiles_180
+  - derelict_spacecraft_tiles_152
+  - derelict_spacecraft_tiles_124
+  - derelict_spacecraft_tiles_181
+  - derelict_spacecraft_tiles_155
+  - derelict_spacecraft_tiles_125
+  - derelict_spacecraft_tiles_186
+  - derelict_spacecraft_tiles_154
+  - derelict_spacecraft_tiles_126
+  - derelict_spacecraft_tiles_187
+  - derelict_spacecraft_tiles_157
+  - derelict_spacecraft_tiles_127
+  - derelict_spacecraft_tiles_137
+  - derelict_spacecraft_tiles_184
+  - derelict_spacecraft_tiles_156
+  - derelict_spacecraft_tiles_120
+  - derelict_spacecraft_tiles_136
+  - derelict_spacecraft_tiles_185
+  - derelict_spacecraft_tiles_159
+  - derelict_spacecraft_tiles_121
+  - derelict_spacecraft_tiles_135
+  - derelict_spacecraft_tiles_158
+  - derelict_spacecraft_tiles_122
+  - derelict_spacecraft_tiles_134
+  - derelict_spacecraft_tiles_123
+  - derelict_spacecraft_tiles_133
+  - derelict_spacecraft_tiles_188
+  - derelict_spacecraft_tiles_132
+  - derelict_spacecraft_tiles_189
+  - derelict_spacecraft_tiles_131
+  - derelict_spacecraft_tiles_130
+  - derelict_spacecraft_tiles_128
+  - derelict_spacecraft_tiles_129
+  - derelict_spacecraft_tiles_201
+  - derelict_spacecraft_tiles_139
+  - derelict_spacecraft_tiles_200
+  - derelict_spacecraft_tiles_138
+  - derelict_spacecraft_tiles_203
+  - derelict_spacecraft_tiles_202
+  - derelict_spacecraft_tiles_205
+  - derelict_spacecraft_tiles_204
+  - derelict_spacecraft_tiles_207
+  - derelict_spacecraft_tiles_206
+  - derelict_spacecraft_tiles_209
+  - derelict_spacecraft_tiles_208
+  - derelict_spacecraft_tiles_74
+  - derelict_spacecraft_tiles_75
+  - derelict_spacecraft_tiles_76
+  - derelict_spacecraft_tiles_77
+  - derelict_spacecraft_tiles_67
+  - derelict_spacecraft_tiles_70
+  - derelict_spacecraft_tiles_66
+  - derelict_spacecraft_tiles_71
+  - derelict_spacecraft_tiles_65
+  - derelict_spacecraft_tiles_72
+  - derelict_spacecraft_tiles_64
+  - derelict_spacecraft_tiles_73
+  - derelict_spacecraft_tiles_63
+  - derelict_spacecraft_tiles_62
+  - derelict_spacecraft_tiles_61
+  - derelict_spacecraft_tiles_60
+  - derelict_spacecraft_tiles_78
+  - derelict_spacecraft_tiles_79
+  - derelict_spacecraft_tiles_69
+  - derelict_spacecraft_tiles_68
+  - derelict_spacecraft_tiles_9
+  - derelict_spacecraft_tiles_8
+  - derelict_spacecraft_tiles_3
+  - derelict_spacecraft_tiles_2
+  - derelict_spacecraft_tiles_1
+  - derelict_spacecraft_tiles_0
+  - derelict_spacecraft_tiles_7
+  - derelict_spacecraft_tiles_6
+  - derelict_spacecraft_tiles_5
+  - derelict_spacecraft_tiles_4
+  - derelict_spacecraft_tiles_195
+  - derelict_spacecraft_tiles_194
+  - derelict_spacecraft_tiles_197
+  - derelict_spacecraft_tiles_196
+  - derelict_spacecraft_tiles_168
+  - derelict_spacecraft_tiles_191
+  - derelict_spacecraft_tiles_169
+  - derelict_spacecraft_tiles_190
+  - derelict_spacecraft_tiles_193
+  - derelict_spacecraft_tiles_192
+  - derelict_spacecraft_tiles_108
+  - derelict_spacecraft_tiles_179
+  - derelict_spacecraft_tiles_109
+  - derelict_spacecraft_tiles_178
+  m_RenderDataMap: {}
+  m_Tag: Sprite Atlas
+  m_IsVariant: 0

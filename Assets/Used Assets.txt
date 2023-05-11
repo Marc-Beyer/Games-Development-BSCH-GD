@@ -1,0 +1,27 @@
+Credits
+
+01 Ballgame
+---------------------
+Mars texture: https://www.solarsystemscope.com/textures/
+Skybox: https://assetstore.unity.com/packages/2d/textures-materials/sky/spaceskies-free-80503
+
+02-03 Jump and Run
+---------------------------------
+yoster font: by [ codeman38 | cody@zone38.net | http://www.zone38.net/ ] https://www.1001fonts.com/yoster-island-font.html
+Player and slime sprites (I changed them a bit):  GameDev Market RPG Humble Bundle (rpgdungeontilesetplus2bonuscharacters)
+TileSet: GameDev Market RPG Humble Bundle
+
+05-05 3D Stealth Game
+-----------------------------------
+PolygonPrototype Pack: https://syntystore.com/products/polygon-prototype-pack
+
+06 Rock Paper Scissors
+---------------------------------
+Sounds: https://opengameart.org/content/hurt-death-sound-effect-for-character
+https://opengameart.org/content/happy-adventure-loop
+
+Deadly Depths
+---------------------------------
+Music: https://pixabay.com/sound-effects/mystery-and-thriller-music-7070/
+Boat Sound: https://opengameart.org/content/engine-loop-heavy-vehicletank
+yoster font: by [ codeman38 | cody@zone38.net | http://www.zone38.net/ ] https://www.1001fonts.com/yoster-island-font.html
