@@ -65,7 +65,7 @@ namespace Dredged {
                 swarmController.RegenerateSwarm(this);
 
                 if(playerStats.Fish + 1 > playerStats.maxFish) {
-                    catchController.ShowPopupText("NO SPACE", Color.red);
+                    catchController.ShowPopupText("NO SPACE", Color.red, false);
                     return;
                 }
                 playerStats.FishDataArr.Add(CurrentfishData);
@@ -75,7 +75,7 @@ namespace Dredged {
                     Random.Range(0, 20/CurrentfishData.Rarity * pointNeededToCatch) < points
                 ) {
                     playerStats.FishDataArr.Add(CurrentfishData);
-                    catchController.ShowPopupText("BONUS", Color.green);
+                    catchController.ShowPopupText("BONUS", Color.green, true);
                 }
 
                 playerStats.Fish = playerStats.FishDataArr.Count;

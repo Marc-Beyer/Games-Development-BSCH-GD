@@ -80,7 +80,7 @@ namespace Dredged {
                 if (wheelImg.eulerAngles.z > 0 && wheelImg.eulerAngles.z < WinAngle) {
                     bonus = bonusPoints;
 
-                    ShowPopupText("+" + bonusPoints, Color.green);
+                    ShowPopupText("+" + bonusPoints, Color.green, true);
                 }
 
                 int points = (bonus + hits * hitPoints - misses * missPoints);
@@ -96,10 +96,11 @@ namespace Dredged {
             }
         }
 
-        public void ShowPopupText(string str, Color textColor) {
+        public void ShowPopupText(string str, Color textColor, bool isHit) {
             TextMeshProUGUI text = Instantiate(popupTextObj, canvas).GetComponent<TextMeshProUGUI>();
             text.text = str;
             text.color = textColor;
+            text.gameObject.GetComponent<PopupText>().SetSound(isHit);
             StartCoroutine(InvokeRoutine(() => destroyObj(text.gameObject), 1f));
         }
 
@@ -113,10 +114,10 @@ namespace Dredged {
             if (Input.GetButtonDown("Jump")) {
                 if (wheelImg.eulerAngles.z > 0 && wheelImg.eulerAngles.z < WinAngle) {
                     hits++;
-                    ShowPopupText("+" + hitPoints, Color.green);
+                    ShowPopupText("+" + hitPoints, Color.green, true);
                 } else {
                     misses++;
-                    ShowPopupText("-" + missPoints, Color.red);
+                    ShowPopupText("-" + missPoints, Color.red, false);
                 }
             }
         }

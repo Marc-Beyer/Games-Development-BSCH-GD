@@ -158,7 +158,7 @@ namespace Dredged {
                 shopMusic.Stop();
                 seaMusic.Play();
 
-                MainMenuController.inst.CanEscape = true;
+                if(MainMenuController.inst) MainMenuController.inst.CanEscape = true;
 
                 uiController.HidePrompt();
                 player.IsInShop = false;
